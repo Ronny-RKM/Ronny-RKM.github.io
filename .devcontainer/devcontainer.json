@@ -1,5 +1,5 @@
 {
-  "name": "Student Web Dev Environment",
+  "name": "Ronny Web Dev Environment",
   "customizations": {
     "vscode": {
       "extensions": ["esbenp.prettier-vscode", "ritwickdey.LiveServer"],
